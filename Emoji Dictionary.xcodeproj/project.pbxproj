@@ -54,9 +54,9 @@
 		E6BB29B81ECCDF8600139E49 /* Emoji Dictionary */ = {
 			isa = PBXGroup;
 			children = (
+				E6BB29BD1ECCDF8600139E49 /* Main.storyboard */,
 				E6BB29B91ECCDF8600139E49 /* AppDelegate.swift */,
 				E6BB29BB1ECCDF8600139E49 /* ViewController.swift */,
-				E6BB29BD1ECCDF8600139E49 /* Main.storyboard */,
 				E6BB29C01ECCDF8600139E49 /* Assets.xcassets */,
 				E6BB29C21ECCDF8600139E49 /* LaunchScreen.storyboard */,
 				E6BB29C51ECCDF8600139E49 /* Info.plist */,
